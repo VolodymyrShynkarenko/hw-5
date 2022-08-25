@@ -7,11 +7,6 @@ class Level {
         this.height = height;
     }
 
-//    public int s(int width, int height) {
-//        s = width * height;
-//        return s;
-//    }
-
     public int getWidth() {
         return width;
     }
